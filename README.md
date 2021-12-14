@@ -1,1 +1,2 @@
-# circular-progress-bar
+# Solar2D Circular Progress Bar
+
