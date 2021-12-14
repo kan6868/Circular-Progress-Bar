@@ -1,5 +1,5 @@
 local M = {}
-local dir = ""
+local dir = "images/"
 local ext = ".png"
 function M.new(options)
 
